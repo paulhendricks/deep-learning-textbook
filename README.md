@@ -1,1 +1,1 @@
-# deep-learning-textbook
+# Deep Learning: Textbook Notes
